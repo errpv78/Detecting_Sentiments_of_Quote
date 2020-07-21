@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af075969-7c3a-4dd5-9d9e-495b06aa4b4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test105.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1071.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1161.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test119.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1199.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1229.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1240.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test125.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test126.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1271.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1279.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test129.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1290.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test131.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1353.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1359.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test136.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test141.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test143.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test144.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test149.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test151.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test152.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test158.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test161.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1615.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test162.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1620.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1634.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test164.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1644.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test165.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test166.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test168.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1717.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test172.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1724.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test173.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1743.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test176.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1767.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1776.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1785.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1788.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test179.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1803.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test181.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1818.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test183.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1837.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1856.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test187.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1872.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test188.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1884.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1885.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1889.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1902.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test192.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1923.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1934.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test194.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1954.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test198.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test1992.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test201.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test204.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test206.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2068.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test209.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test211.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test213.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test216.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test218.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2209.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test221.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2235.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test225.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test227.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test228.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test230.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2309.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test231.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test232.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test233.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test234.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test236.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test237.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2371.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test238.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test239.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test240.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2411.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test242.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2424.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test243.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2434.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test244.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test245.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2455.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test249.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test250.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2590.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2616.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2648.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2650.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2743.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2791.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2792.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2870.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2959.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2962.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test2977.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3118.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3130.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3159.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3246.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3265.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3277.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3294.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3360.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3512.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3525.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test353.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3566.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test360.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3625.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3706.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test372.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test374.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3749.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3750.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test378.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3789.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3798.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3827.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3863.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3864.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3893.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3934.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test396.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test397.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3975.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test3985.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test417.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test422.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test440.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test449.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test482.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test489.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test490.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test498.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test516.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test519.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test522.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test523.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test526.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test527.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test533.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test536.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test545.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test579.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test581.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test587.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test606.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test612.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test614.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test624.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test644.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test660.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test661.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test665.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test668.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test677.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test715.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test751.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test757.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test760.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test761.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test778.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test779.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test789.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test803.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test811.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test812.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test824.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test833.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test834.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test835.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test837.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test843.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test859.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test861.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test884.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test890.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test903.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test912.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test929.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test937.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test941.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test942.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test945.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test946.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test957.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test979.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Dataset/Test993.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Sample Data Files/Sample_Negative.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Sample Data Files/Sample_Positive.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Sample Data Files/Sample_Random.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Sample_Submission.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Files/Test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCR/EAST_text_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCR/frozen_east_text_detection.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCR/frozen_east_text_detection.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCR/pytesseract-ocr.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1elObJUaDOld4fLkLrCXUfH0Zff" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.EAST_text_detection (1)">
+    <configuration name="EAST_text_detection (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Detecting_Sentiments_of_Quote" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OCR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OCR/EAST_text_detection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EAST_text_detection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Detecting_Sentiments_of_Quote" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EAST_text_detection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytesseract-ocr (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Detecting_Sentiments_of_Quote" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OCR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OCR/pytesseract-ocr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytesseract-ocr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Detecting_Sentiments_of_Quote" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytesseract-ocr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.EAST_text_detection (1)" />
+        <item itemvalue="Python.pytesseract-ocr (1)" />
+        <item itemvalue="Python.EAST_text_detection" />
+        <item itemvalue="Python.pytesseract-ocr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af075969-7c3a-4dd5-9d9e-495b06aa4b4c" name="Default Changelist" comment="" />
+      <created>1594892782935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594892782935</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1116" y="355" width="638" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595264335084">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1116" y="355" width="638" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1595264335084" />
+    <state width="1897" height="116" key="GridCell.Tab.0.bottom" timestamp="1595335092510">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="116" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1595335092510" />
+    <state width="1897" height="116" key="GridCell.Tab.0.center" timestamp="1595335092509">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="116" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1595335092509" />
+    <state width="1897" height="116" key="GridCell.Tab.0.left" timestamp="1595335092508">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="116" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1595335092508" />
+    <state width="1897" height="116" key="GridCell.Tab.0.right" timestamp="1595335092510">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="116" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1595335092510" />
+    <state x="898" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1594895837111">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="898" y="188" width="1022" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1594895837111" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1595264891314">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1595264891314" />
+  </component>
+</project>
