@@ -13,7 +13,8 @@ Test.csv(final predictions file)<br>
 
 ### Hackathon result
 Registered late in the competition(just 4 days before the end)<br>
-Secured 84th position out of 5000+ participants
+Secured 84th position out of 5000+ participants<br>
+Test Performance: 44.47199
 
 
 # OCR:
@@ -22,7 +23,16 @@ EAST_text_detection.py: using pretrained east model for text detection. Model no
 from: https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV <br>
 
 
+# Sentimental Analysis
+Simple_nn: Sentimental analysis using simple neural network, dataset used was imdb movie reviews dataset. Trained model also available in that directory. Performance - 47.86517<br><br>
+
+LSTM: Lstm model for sentimental analysis, dataset used was:  https://www.kaggle.com/kazanova/sentiment140 Performance - 46.33494<br><br>
+
+Bert: Using pretrained bert model with previous dataset. Performance - 48.10594<br><br>
 
 # Refrences:
 A big thanks to Andrian from https://www.pyimagesearch.com/start-here/ for OCR basics and comprehensive implementation of EAST detector.<br>
+For Lstm model for sentimental analysis: https://blog.usejournal.com/sentiment-classification-with-natural-language-processing-on-lstm-4dc0497c1f19  ; https://www.kaggle.com/ngyptr/lstm-sentiment-analysis-keras<br>
+For bert model: https://www.curiousily.com/posts/sentiment-analysis-with-bert-and-hugging-face-using-pytorch-and-python/ <br>
+
 
